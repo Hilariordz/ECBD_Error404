@@ -1,0 +1,123 @@
+reservacionid,customerid,nombre,apellido,correo,correo_valido,numero,fechahora_reservacion,nasistentes,mesa,estado,plataformareserva,especificaciones
+3818,CUST11,Jennifer,Smith,stricklandjacob@example.com,True,6051877957,2025-01-10 12:30:00,9,1,Confirmado,App,Ninguna
+1358,CUST543,Brian,Poole,sbennett@example.org,True,0792519159,2025-01-10 20:30:00,7,17,Pendiente,App,Ninguna
+3082,CUST1387,Donald,Kemp,teresareeves@example.org,True,1486156143,2025-01-10 20:30:00,10,18,Confirmado,Sitio Web,Ninguna
+2196,CUST1316,Jennifer,Huff,fblackwell@example.org,True,5824736436,2025-01-10 21:00:00,1,11,Cancelado,Teléfono,Well example talk care name weight.
+1365,CUST339,Megan,Sherman,no_proporcionado,False,0318295758,2025-01-10 21:45:00,6,7,No Presentado,Teléfono,Ninguna
+2192,CUST1822,Oy,Sims,owhite@example.net,True,8969471232,2025-01-10 22:45:00,1,19,Pendiente,Teléfono,  
+1175,CUST1184,Patricia,James,johnsonroberto@example.org,True,5383384831,2025-01-11 12:15:00,10,13,Cancelado,Otra,Out country response.
+776,CUST1202,Danielle,Waller,matthewcox@example.com,True,4169813215,2025-01-11 13:00:00,3,21,Pendiente,Sitio Web,Leg leg paper from.
+2944,CUST617,Phillip,Lawson,harveyjessica@example.org,True,,2025-01-11 15:00:00,10,14,No Presentado,Sitio Web,Ninguna
+307,CUST1476,Kisten,Robbins,graydrew@example.com,True,7830005230,2025-01-11 20:15:00,6,30,Confirmado,Teléfono, Far head Mr thousand evening. 
+795,CUST443,Jessca,Morton,kevin19@example.com,True,5383700822,2025-01-12 13:30:00,2,20,Cancelado,Teléfono,Ninguna
+3120,CUST441,Kristi,Cunningham,christopher62@.com,True,0081245704,2025-01-12 14:30:00,10,29,Pendiente,Otra,Federal grow he there.
+3857,CUST379,Colleen,Tyler,elizabethalexander@example.net,True,5638486905,2025-02-10 12:30:00,2,21,Confirmado,Teléfono,Ninguna
+246,CUST1768,Ryan,Finley,lmills@example.net,True,0152295562,2025-02-10 13:30:00,7,11,No Presentado,Teléfono,Authority face card far back by.
+420,CUST1966,James,Lane,david63@example.com,True,,2025-02-10 16:15:00,5,15,No Presentado,App,Type Mr itself fill light.
+2673,CUST1672,Alex,Rodriguez,charles08@example.org,True,2324481606,2025-02-10 22:30:00,6,12,Pendiente,Teléfono,Ninguna
+1018,CUST1631,Dennis,Thompson,michaelhudson@example.org,True,4206697427,2025-02-11 16:00:00,8,9,No Presentado,App,Have fast environmental of arrive employee.
+1614,CUST1072,Dominic,Brown,no_proporcionado,False,7781930481,2025-02-11 19:00:00,8,13,Pendiente,App,Ninguna
+1327,CUST799,Jeff,Washington,jonescarl@example.net,True,6431641075,2025-02-11 21:15:00,5,24,Confirmado,Sitio Web,Dinner many strong.
+1495,CUST1162,Nancy,Hammond,sylvia31@example.net,True,4168180284,2025-02-11 21:45:00,4,13,Cancelado,Otra,Well every movement positive quickly project.
+1851,CUST906,Mariah,Alexander,wramsey@example.org,True,1704179429,2025-02-12 15:30:00,3,28,No Presentado,Sitio Web,Ninguna
+2965,CUST620,Marissa,Rodriguez,danielhunter@example.net,True,,2025-03-10 21:15:00,2,8,Confirmado,Teléfono,Out day kind meeting majority any.
+815,CUST1906,Gerald,Chapman,no_proporcionado,False,3435523982,2025-03-11 20:45:00,6,16,Confirmado,Sitio Web,Ninguna
+2852,CUST1824,Chad,Hoffman,joseph71@example.org,True,4134116709,2025-03-12 12:45:00,8,7,No Presentado,Teléfono,Ninguna
+3563,CUST1525,Amanda,Patel,brianna31@example.org,True,8461987944,2025-03-12 17:45:00,6,4,No Presentado,App,Ninguna
+2680,CUST1215,Jessica,Garcia,trevorbanks@example.com,True,8506376808,2025-03-12 19:15:00,2,24,Confirmado,Teléfono,Cause woman watch.
+1529,CUST389,Ashley,Hart,stephen38@example.org,True,0499730347,2025-03-12 21:15:00,6,17,Cancelado,Sitio Web,Ninguna
+3921,CUST1398,Briana,Johnson,bcastillo@example.com,True,8132131585,2025-04-10 13:45:00,7,6,Pendiente,App,Ninguna
+2815,CUST1313,Tammy,Ortiz,gpacheco@example.com,True,8754110811,2025-04-10 14:45:00,7,17,Confirmado,Teléfono,Ninguna
+2401,CUST1825,Charles,Case,luis04@example.net,True,3279778292,2025-04-10 16:00:00,8,10,No Presentado,Teléfono,Ninguna
+1117,CUST789,Jonathan,Ramsey,olsenkathleen@example.org,True,,2025-04-10 16:30:00,6,30,Pendiente,App,So book action.
+3502,CUST1306,Jerry,Jordan,browntammy@example.org,True,3465187250,2025-04-10 17:30:00,3,18,Confirmado,App,Ninguna
+2227,CUST590,Michelle,Wright,gschwartz@example.net,True,,2025-04-10 19:45:00,2,4,Pendiente,App,Camera machine attorney possible role.
+3305,CUST1759,Carol,Ibarra,stephanieschneider@example.org,True,5417317278,2025-04-11 13:15:00,3,22,Pendiente,Teléfono, Hear voice east interesting yard. 
+653,CUST1626,Michael,Cameron,rogerwhite@example.com,True,1669704313,2025-04-11 13:30:00,9,6,Confirmado,Otra,Ninguna
+627,CUST929,Amana,Jones,hutchinsonrebecca@example.com,True,9260990235,2025-04-11 14:30:00,10,5,Cancelado,Teléfono,Ninguna
+3611,CUST1442,Tammy,Knox,gwendolyndavis@email..com,True,5994291007,2025-04-11 19:45:00,10,20,No Presentado,Otra,Ninguna
+652,CUST507,Ean,Lewis,allenlori@example.org,True,9290945321,2025-04-11 21:15:00,8,23,Confirmado,Sitio Web,Change blood degree budget floor.
+2763,CUST1474,Kaylee,Stewart,no_proporcionado,False,3424249080,2025-04-12 13:45:00,6,4,Pendiente,Sitio Web,Ninguna
+3737,CUST1420,Mary,Henry,bonillaamanda@example.org,True,9936757929,2025-04-12 22:00:00,4,2,Cancelado,App,Ninguna
+1637,CUST1151,David,Bowman,richardmartin@example.net,True,8357080826,2025-04-12 22:45:00,6,28,Cancelado,Teléfono,Ninguna
+2353,CUST1635,Alyssa,Olson,mcculloughalan@example.org,True,3770270070,2025-05-10 19:00:00,4,12,Cancelado,App,Ninguna
+2103,CUST1503,David,Jones,lmcintosh@example.com,True,6617098029,2025-05-10 19:30:00,7,15,Pendiente,App,Ninguna
+3693,CUST965,Robert,Martin,kimberly45@example.org,True,8165362477,2025-05-10 21:30:00,6,6,Pendiente,Teléfono,Ninguna
+2585,CUST1788,Lisa,Skinner,benjaminjohnson@example.org,True,5890541761,2025-05-10 21:45:00,10,13,Confirmado,Teléfono,Ninguna
+2925,CUST1184,Pamela,Wilkinson,dennis92@email..com,True,1270514927,2025-05-11 13:45:00,7,29,Confirmado,Teléfono,Ninguna
+3707,CUST1371,Luis,Mcfarland,gomeznancy@example.com,True,4229104535,2025-05-11 14:30:00,10,5,Pendiente,Teléfono,Ninguna
+2463,CUST652,Jamie,Stephenson,kthornton@example.com,True,0074581078,2025-05-11 15:15:00,7,30,Confirmado,Sitio Web,Ninguna
+2620,CUST1971,Jonathan,Contreras,mark11@example.org,True,1796176517,2025-05-11 22:15:00,1,11,Pendiente,Sitio Web,Ninguna
+3949,CUST1194,Shawn,Abbott,danielle05@example.org,True,5132273744,2025-05-12 12:30:00,2,23,Cancelado,Sitio Web,Ninguna
+256,CUST644,Kayla,Mahoney,williamjohnson@example.net,True,0472408351,2025-05-12 14:45:00,7,13,Pendiente,App,Ninguna
+2137,CUST666,Shirley,Nunez,jenningsderek@example.org,True,7614144614,2025-05-12 16:15:00,6,2,Confirmado,App,Ninguna
+3987,CUST1820,Martha,Black,nicole04@example.net,True,,2025-05-12 17:15:00,10,9,Pendiente,App,Ninguna
+516,CUST63,Christopher,Cox,rreed@example.net,True,7734342032,2025-05-12 17:45:00,5,17,Pendiente,Otra,Ninguna
+116,CUST1583,Ryan,Dixon,sandra03@example.com,True,,2025-05-12 19:30:00,3,19,Cancelado,App,Ninguna
+286,CUST1790,Brittney,Flores,molly72@example.net,True,1707548499,2025-05-12 19:30:00,7,29,Confirmado,Sitio Web,Ninguna
+966,CUST297,Daiel,Kim,xarnold@example.com,True,3186976684,2025-06-10 12:45:00,1,4,Pendiente,Otra,Ninguna
+3440,CUST1695,Paul,Fuller,lcruz@example.org,True,0748046234,2025-06-10 18:15:00,4,6,Confirmado,Sitio Web,Ninguna
+360,CUST652,Ausin,Patterson,williamsstephen@example.org,True,,2025-06-11 13:15:00,6,15,Confirmado,Otra,Ninguna
+3596,CUST1837,Kenneth,Hardin,christopherhatfield@.com,True,6881022907,2025-06-11 16:00:00,2,21,Cancelado,App,Ninguna
+933,CUST1197,Rebecca,Allen,marissameyer@example.net,True,,2025-06-11 18:00:00,9,22,Cancelado,Otra,Ninguna
+3083,CUST23,Alicia,Greene,imcdaniel@example.net,True,2087312861,2025-06-11 18:45:00,5,30,No Presentado,App,Ninguna
+3231,CUST1184,Charles,Anderson,watsonpatricia@example.org,True,,2025-06-11 19:00:00,5,3,Confirmado,Otra,Arrive morning ball south.
+3113,CUST322,Madison,Robinson,tracyburns@example.com,True,3661333250,2025-06-11 20:45:00,10,10,Confirmado,Sitio Web,Ninguna
+611,CUST1199,Charles,Henderson,craig48@example.com,True,2491174308,2025-06-11 20:45:00,4,16,Pendiente,Teléfono,Ninguna
+1763,CUST502,Curtis,Adkins,rachel95@example.org,True,,2025-06-11 20:45:00,6,30,Cancelado,Sitio Web,Ninguna
+2233,CUST1575,Vanessa,Escobar,dmathews@example.com,True,0515252722,2025-06-12 12:30:00,3,18,No Presentado,Sitio Web,Ninguna
+3977,CUST1014,Kati,Green,martinnoble@example.com,True,2563681500,2025-06-12 12:45:00,4,24,No Presentado,Otra,Top certain remember.
+742,CUST1585,Brandon,Bauer,kristopher51@example.org,True,5588588440,2025-06-12 16:00:00,10,5,Cancelado,App, Year possible born take you more. 
+344,CUST986,Timothy,Rogers,john89@example.org,True,8427964819,2025-06-12 17:00:00,7,19,Pendiente,Teléfono,Ninguna
+3258,CUST126,Richard,Turner,espinozaamy@example,False,8708782042,2025-06-12 22:15:00,6,30,Confirmado,App,  
+2921,CUST320,Gina,Lopez,cwagner@example.com,True,2626789448,2025-07-10 12:15:00,10,30,Cancelado,Sitio Web,Rate candidate art suddenly save.
+3337,CUST386,Jason,Guerra,francis72@example.net,True,8807579067,2025-07-10 15:30:00,7,8,Confirmado,Teléfono,Ninguna
+2084,CUST1876,Krystal,Taylor,no_proporcionado,False,9788793138,2025-07-10 16:30:00,7,22,Cancelado,Teléfono,Everybody within little treatment simple.
+3933,CUST593,Gary,Cooley,no_proporcionado,False,,2025-07-11 12:45:00,10,19,Confirmado,Teléfono,Whom air radio staff.
+972,CUST1941,Robert,Smith,grahamkristine@example.com,True,6572113296,2025-07-11 15:30:00,4,9,Cancelado,App,  
+1098,CUST257,Maria,Hampton,kochmichael.com,False,1989402154,2025-07-11 18:30:00,1,15,Confirmado,Teléfono,Since film analysis marriage.
+481,CUST1429,Janet,Cline,james74@example.com,True,8480122152,2025-07-11 20:15:00,8,19,Cancelado,Teléfono,Idea brother perform.
+3412,CUST57,Alexis,Nelson,tina96@example.org,True,,2025-07-12 15:30:00,5,4,Pendiente,Sitio Web,Experience create similar above event arm.
+1616,CUST557,Jennifer,Finley,zachary87@example.org,True,,2025-08-10 13:00:00,7,3,No Presentado,Teléfono,Ninguna
+3780,CUST1273,Patrick,Williams,hsimmons@example.com,True,4297022451,2025-08-10 16:45:00,1,28,Cancelado,App,Ninguna
+336,CUST456,Crystal,Davis,cindy63@example.net,True,4935269765,2025-08-10 22:45:00,9,6,Pendiente,Otra,Though she light.
+1430,CUST1025,Dorothy,Elliott,rodriguezcassandra@example.net,True,7199757685,2025-08-11 12:15:00,6,7,Pendiente,App,Ninguna
+824,CUST1290,Selena,White,alexandriareed@example.net,True,,2025-08-11 12:45:00,3,5,Pendiente,Otra,  
+783,CUST1704,Amanda,Garner,veronicamitchell@example.org,True,4009277566,2025-08-12 12:30:00,9,23,Cancelado,Otra,Ninguna
+1064,CUST1565,Michael,Short,monica49@example.org,True,1856344021,2025-08-12 15:15:00,8,19,Cancelado,Teléfono,Ninguna
+2150,CUST720,Katie,Maddox,kayladavidson@example.org,True,,2025-08-12 15:45:00,5,18,Pendiente,Sitio Web,Ninguna
+1190,CUST1684,Timothy,Thomas,no_proporcionado,False,7355072980,2025-08-12 21:30:00,8,22,No Presentado,Teléfono,  
+1822,CUST21,Maria,Smith,davidmatthews@example,False,2732426501,2025-09-10 14:45:00,10,23,Pendiente,Teléfono,Ninguna
+3888,CUST307,Ann,Baker,bethanysanchez@example.org,True,6546859301,2025-09-10 15:15:00,3,8,Cancelado,App,Ninguna
+2968,CUST1021,Angela,Page,brandongross@example.net,True,4931568640,2025-09-10 15:30:00,6,14,Pendiente,App,Ninguna
+2343,CUST110,Rodney,Hill,toni89@example.org,True,7258657042,2025-09-10 17:45:00,6,9,No Presentado,Teléfono,Ninguna
+3486,CUST705,Tammy,Jones,william90@.com,True,1433509579,2025-09-11 14:45:00,4,16,Confirmado,Teléfono,Yourself animal consumer.
+3756,CUST1027,Lisa,Reyes,michael65@example.com,True,8526668420,2025-09-11 21:00:00,10,21,Confirmado,App,Fill deal white gas.
+2172,CUST117,Briana,Benson,harrisjustin@example.net,True,0816705281,2025-10-09 13:00:00,1,28,Pendiente,App,Ninguna
+2022,CUST1809,Joshua,Conrad,roberto15@example.com,True,8902961576,2025-10-11 13:45:00,6,26,Pendiente,Teléfono,Ninguna
+2520,CUST267,Joshua,Johnson,no_proporcionado,False,8387651161,2025-10-11 20:45:00,8,22,Confirmado,Teléfono,Ninguna
+3556,CUST1486,Todd,Rodriguez,smithjimmy@example.org,True,5954674785,2025-10-11 21:15:00,3,12,Confirmado,App,Ninguna
+3403,CUST1274,Jason,Lee,perkinsdorothy@example.net,True,,2025-11-09 16:15:00,8,10,Cancelado,App,Nearly picture challenge clearly take.
+2087,CUST675,Alexis,Wood,snyderpaul@example.net,True,3344045382,2025-11-10 12:00:00,9,5,No Presentado,App,Ninguna
+2667,CUST1229,Amy,Moon,jessicaharding@example.org,True,3463237846,2025-11-10 13:15:00,9,9,Cancelado,App,Ninguna
+3228,CUST1687,Randy,Marshall,erinmercer@example.org,True,4475827774,2025-11-10 14:45:00,4,21,Confirmado,Otra,Ninguna
+1871,CUST1499,Donald,Olsen,dianagreen@example.net,True,5280976897,2025-11-10 16:15:00,10,8,Cancelado,Teléfono,Suggest society police finish.
+1,CUST1778,Jeremiah,May,eric03.com,False,5137406036,2025-11-10 21:45:00,3,2,No Presentado,Sitio Web,Natural career popular.
+565,CUST1052,Paul,Elliott,tanya72@example.com,True,,2025-11-11 12:15:00,4,10,Pendiente,App,Current physical do.
+3056,CUST1429,Brenda,Jordan,walterspatricia@example.net,True,1002749683,2025-11-11 12:15:00,6,10,Confirmado,Otra,Ninguna
+3641,CUST1811,Deborah,Stevenson,codymckinney@example.net,True,,2025-11-11 16:45:00,6,12,Cancelado,Teléfono,Ninguna
+24,CUST1714,Anthony,Robertson,stephenskimberly@example.net,True,2005924029,2025-11-11 17:30:00,5,21,Pendiente,Sitio Web,Capital position before return yourself.
+3360,CUST1961,Kayla,Lloyd,no_proporcionado,False,8138155102,2025-12-09 12:30:00,6,18,Cancelado,App,Ninguna
+2052,CUST1772,Dana,Peterson,no_proporcionado,False,8812613429,2025-12-09 12:30:00,1,6,No Presentado,Teléfono,Ninguna
+3070,CUST500,Grant,Lowery,stephanie06@example.org,True,4407974719,2025-12-09 17:00:00,4,27,Cancelado,Sitio Web,Ninguna
+2241,CUST527,David,Owens,juarezsamuel@.com,True,8546897270,2025-12-09 17:30:00,3,12,Confirmado,App,Ninguna
+254,CUST1848,Tammy,Duarte,ubooth@example.com,True,0802539892,2025-12-09 20:30:00,10,10,Confirmado,Teléfono,Ninguna
+932,CUST1632,Richard,Turner,anthonytheresa@example.com,True,2996836358,2025-12-09 21:00:00,8,14,Confirmado,Otra,Result yes compare it.
+786,CUST803,Lawrence,Flores,no_proporcionado,False,6032349960,2025-12-10 19:30:00,1,28,Confirmado,Teléfono,Then seek identify happy until change.
+3775,CUST48,Nicole,Ward,ryan06@example.com,True,,2025-12-10 19:30:00,2,1,Pendiente,Sitio Web,Thank charge matter how most song.
+2324,CUST974,Joshua,Fields,no_proporcionado,False,9011250454,2025-12-10 19:45:00,9,12,Confirmado,Otra,Ninguna
+419,CUST896,Kathy,Duncan,laura58@example,False,8478326517,2025-12-11 12:00:00,1,17,Pendiente,Teléfono,Ninguna
+3852,CUST644,Aaron,Esparza,ocisneros@example.net,True,7835267579,2025-12-11 12:15:00,8,14,Confirmado,Teléfono,  
+2635,CUST1624,Ashley,Martinez,stevensjames@example.net,True,0900035683,2025-12-11 18:15:00,7,30,Cancelado,Teléfono,Ninguna
+2317,CUST1490,Michael,Johnson,sophiamiller@example.net,True,,2025-12-11 21:00:00,9,19,Confirmado,Teléfono,Movie behavior talk.
+495,CUST1913,Susan,Adams,frenchjames@example.net,True,1895221092,2025-12-11 21:15:00,5,22,Confirmado,Teléfono,Ninguna
