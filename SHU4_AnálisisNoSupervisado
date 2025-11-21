@@ -23,58 +23,16 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Hilariordz/ECBD_Error404/blob/master/Dataset_ETL.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Hilariordz/ECBD_Error404/blob/master/SHU4_An%C3%A1lisisNoSupervisado\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
-        "id": "6u14nH63M7XR",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "outputId": "d904725c-bfee-4f4a-c224-1a0e8ed70608"
+        "id": "6u14nH63M7XR"
       },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Requirement already satisfied: pandas in /usr/local/lib/python3.12/dist-packages (2.2.2)\n",
-            "Requirement already satisfied: sqlalchemy in /usr/local/lib/python3.12/dist-packages (2.0.44)\n",
-            "Requirement already satisfied: openpyxl in /usr/local/lib/python3.12/dist-packages (3.1.5)\n",
-            "Requirement already satisfied: requests in /usr/local/lib/python3.12/dist-packages (2.32.4)\n",
-            "Requirement already satisfied: gspread in /usr/local/lib/python3.12/dist-packages (6.2.1)\n",
-            "Requirement already satisfied: gdown in /usr/local/lib/python3.12/dist-packages (5.2.0)\n",
-            "Requirement already satisfied: numpy>=1.26.0 in /usr/local/lib/python3.12/dist-packages (from pandas) (2.0.2)\n",
-            "Requirement already satisfied: python-dateutil>=2.8.2 in /usr/local/lib/python3.12/dist-packages (from pandas) (2.9.0.post0)\n",
-            "Requirement already satisfied: pytz>=2020.1 in /usr/local/lib/python3.12/dist-packages (from pandas) (2025.2)\n",
-            "Requirement already satisfied: tzdata>=2022.7 in /usr/local/lib/python3.12/dist-packages (from pandas) (2025.2)\n",
-            "Requirement already satisfied: greenlet>=1 in /usr/local/lib/python3.12/dist-packages (from sqlalchemy) (3.2.4)\n",
-            "Requirement already satisfied: typing-extensions>=4.6.0 in /usr/local/lib/python3.12/dist-packages (from sqlalchemy) (4.15.0)\n",
-            "Requirement already satisfied: et-xmlfile in /usr/local/lib/python3.12/dist-packages (from openpyxl) (2.0.0)\n",
-            "Requirement already satisfied: charset_normalizer<4,>=2 in /usr/local/lib/python3.12/dist-packages (from requests) (3.4.4)\n",
-            "Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.12/dist-packages (from requests) (3.11)\n",
-            "Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.12/dist-packages (from requests) (2.5.0)\n",
-            "Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.12/dist-packages (from requests) (2025.10.5)\n",
-            "Requirement already satisfied: google-auth>=1.12.0 in /usr/local/lib/python3.12/dist-packages (from gspread) (2.38.0)\n",
-            "Requirement already satisfied: google-auth-oauthlib>=0.4.1 in /usr/local/lib/python3.12/dist-packages (from gspread) (1.2.3)\n",
-            "Requirement already satisfied: beautifulsoup4 in /usr/local/lib/python3.12/dist-packages (from gdown) (4.13.5)\n",
-            "Requirement already satisfied: filelock in /usr/local/lib/python3.12/dist-packages (from gdown) (3.20.0)\n",
-            "Requirement already satisfied: tqdm in /usr/local/lib/python3.12/dist-packages (from gdown) (4.67.1)\n",
-            "Requirement already satisfied: cachetools<6.0,>=2.0.0 in /usr/local/lib/python3.12/dist-packages (from google-auth>=1.12.0->gspread) (5.5.2)\n",
-            "Requirement already satisfied: pyasn1-modules>=0.2.1 in /usr/local/lib/python3.12/dist-packages (from google-auth>=1.12.0->gspread) (0.4.2)\n",
-            "Requirement already satisfied: rsa<5,>=3.1.4 in /usr/local/lib/python3.12/dist-packages (from google-auth>=1.12.0->gspread) (4.9.1)\n",
-            "Requirement already satisfied: requests-oauthlib>=0.7.0 in /usr/local/lib/python3.12/dist-packages (from google-auth-oauthlib>=0.4.1->gspread) (2.0.0)\n",
-            "Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.12/dist-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)\n",
-            "Requirement already satisfied: soupsieve>1.2 in /usr/local/lib/python3.12/dist-packages (from beautifulsoup4->gdown) (2.8)\n",
-            "Requirement already satisfied: PySocks!=1.5.7,>=1.5.6 in /usr/local/lib/python3.12/dist-packages (from requests[socks]->gdown) (1.7.1)\n",
-            "Requirement already satisfied: pyasn1<0.7.0,>=0.6.1 in /usr/local/lib/python3.12/dist-packages (from pyasn1-modules>=0.2.1->google-auth>=1.12.0->gspread) (0.6.1)\n",
-            "Requirement already satisfied: oauthlib>=3.0.0 in /usr/local/lib/python3.12/dist-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib>=0.4.1->gspread) (3.3.1)\n"
-          ]
-        }
-      ],
+      "outputs": [],
       "source": [
         "!pip install pandas sqlalchemy openpyxl requests gspread gdown\n",
         "\n",
@@ -860,87 +818,10 @@
       ],
       "metadata": {
         "id": "szhZF_ajcZle",
-        "collapsed": true,
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "outputId": "d09c0f53-21c6-4922-e0fa-fea358b388a2"
+        "collapsed": true
       },
-      "execution_count": 7,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Dataset cargado exitosamente.\n",
-            "Número de registros iniciales: 4200\n",
-            "\n",
-            " Iniciando proceso de limpieza y transformación...\n",
-            "¡Limpieza completada!\n",
-            "Número de registros finales: 320\n",
-            "\n",
-            " Dataset limpio guardado como 'reservaciones_limpias.csv'.\n",
-            "\n",
-            "Vista previa del dataset limpio:\n",
-            "      reservacionid customerid   nombre   apellido                   correo  \\\n",
-            "2506           2507    CUST140  Deborah    Bradley             cbryant@.com   \n",
-            "1063           1064    CUST676  Kathryn  Zimmerman              cyoung@.com   \n",
-            "607             608   CUST1409   Amanda      James  hahnwhitney@example.org   \n",
-            "3427           3428    CUST772    Linda     Gibson      daniel83@email..com   \n",
-            "2804           2805   CUST1390     Jose    Stewart     amanda19@example.net   \n",
-            "\n",
-            "      correo_valido      numero fechahora_reservacion  nasistentes  mesa  \\\n",
-            "2506           True  7251182403   2025-10-22 15:30:00            3    29   \n",
-            "1063           True  1323086131   2025-10-23 13:15:00            1    24   \n",
-            "607            True  7505828204   2025-10-23 15:00:00            6    15   \n",
-            "3427           True  5412472707   2025-10-23 22:15:00            3    13   \n",
-            "2804           True  9759846231   2025-10-24 12:00:00            8    13   \n",
-            "\n",
-            "             estado plataformareserva especificaciones  \n",
-            "2506  No Presentado               App          Ninguna  \n",
-            "1063      Pendiente          Teléfono          Ninguna  \n",
-            "607      Confirmado         Sitio Web                   \n",
-            "3427     Confirmado          Teléfono          Ninguna  \n",
-            "2804     Confirmado               App          Ninguna  \n"
-          ]
-        },
-        {
-          "output_type": "stream",
-          "name": "stderr",
-          "text": [
-            "/tmp/ipython-input-3671973479.py:21: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
-            "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
-            "\n",
-            "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
-            "\n",
-            "\n",
-            "  df['correo'].fillna('no_proporcionado', inplace=True)\n",
-            "/tmp/ipython-input-3671973479.py:26: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
-            "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
-            "\n",
-            "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
-            "\n",
-            "\n",
-            "  df['numero'].replace('nan', 'no_proporcionado', inplace=True)\n",
-            "/tmp/ipython-input-3671973479.py:41: UserWarning: Parsing dates in %d/%m/%Y %H:%M:%S format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.\n",
-            "  df['fechahora_reservacion'] = pd.to_datetime(\n",
-            "/tmp/ipython-input-3671973479.py:51: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
-            "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
-            "\n",
-            "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
-            "\n",
-            "\n",
-            "  df['nasistentes'].fillna(median_asistentes, inplace=True)\n",
-            "/tmp/ipython-input-3671973479.py:54: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
-            "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
-            "\n",
-            "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
-            "\n",
-            "\n",
-            "  df['especificaciones'].fillna('Ninguna', inplace=True)\n"
-          ]
-        }
-      ]
+      "execution_count": null,
+      "outputs": []
     },
     {
       "cell_type": "code",
